@@ -20,7 +20,7 @@ To get started with the React Calculator App, follow these steps:
    git clone https://github.com/your-username/react-calculator-app.git
    
 2. **Navigate**: Navigate to the project directory:
-cd react-calculator-app
+cd simple-calculator
    
 3. **Install Dependencies**: Install the required dependencies by running:
 npm install
