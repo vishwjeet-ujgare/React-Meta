@@ -1,0 +1,67 @@
+#achivements-container {
+    margin: 1%;
+    padding-bottom: 0.7%;
+
+}
+
+#achivements-cards-container {
+   
+    display: flex;
+    padding:  1%;
+    margin: 0.5%;
+    border-radius: 10px;
+    background-color: gainsboro;
+    justify-content: space-between;
+
+}
+
+.achivements-card {
+    width: 31%;
+    background-color:white;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.achivements-card img
+{
+    width:100%;
+    height: auto;
+    border-radius: 10px;    
+}
+.achivements-card-info
+{
+    padding:  1% 2%;
+    /* background-color: blue; */
+}
+
+.achivements-card-info h2
+{
+    text-transform: capitalize;
+    margin-top: 0%;
+}
+.achivements-card-info p
+{
+ text-align: justify;
+
+}
+
+.achivements-card-info button
+{
+ background-color: rgb(135, 135, 210);
+ border-radius: 10px;
+ width: 60%;
+ height:30px;
+ display: block;
+
+ margin: 5px auto;
+ 
+
+}
+
+.achivements-card-info button:hover
+{
+    background-color: rgb(176, 176, 245);
+cursor: pointer;
+}
+
+

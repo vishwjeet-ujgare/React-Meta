@@ -51,8 +51,8 @@ function Navbar() {
       </ul>
 
       <ul className="header-right">
-        <li>Achivements</li>
-        <li>Contact Me</li>
+        <li><a href="#achivements-container">Achivements</a></li>
+        <li><a href="#contact-form-container">Contact Me</a></li>
       </ul>
     </div>
   );

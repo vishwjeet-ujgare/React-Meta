@@ -59,3 +59,10 @@ img{
    width: 40px; 
    height: auto;
 }
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(108, 122, 228);
+}

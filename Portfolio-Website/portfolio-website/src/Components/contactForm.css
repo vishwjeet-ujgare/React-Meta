@@ -1,0 +1,74 @@
+#contact-form-container {
+
+    margin: 1%;
+
+
+}
+
+.contact-form-inputs-container {
+    margin: 0px 1%;
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding-bottom: 10px;
+
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.input-container,
+label {
+    padding: 2px;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+.input-container,
+input {
+    margin-bottom: 5px;
+
+}
+
+.input-container,
+input {
+    padding: 5px 10px;
+    font-size: larger;
+    border-radius: 10px;
+
+}
+
+input {
+    border: 1px solid gray;
+
+}
+
+textarea {
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: larger;
+
+}
+
+.contact-form-inputs-container button {
+display: block;
+    width: 60%;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: gray;
+color:white;
+
+}
+
+.contact-form-inputs-container button:hover {
+    cursor: pointer;
+    background-color: gainsboro;
+    color: black;
+    }
